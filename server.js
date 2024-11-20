@@ -10,4 +10,5 @@ async function main() {
 }
 
 // testing
+console.log("HI****");
 main();
